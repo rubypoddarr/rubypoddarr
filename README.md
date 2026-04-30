@@ -2,7 +2,7 @@
 
 ---
 
-# 🌍✨ Ruby Poddar — Data Explorer (Not Just Data Scientist 😎)
+# 🌍✨ Ruby Poddar Data Explorer 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hello+World+👋;I+am+Ruby+😎;Data+Scientist+%2B+Poet+%2B+Chef+%2B+Everything+😭;Preparing+for+Government+Job+also+💼;Explorer+of+Everything+🌍;Kabhi+coder+kabhi+singer+kabhi+philosopher+😌" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 😭 About Me (Full Reality, No Filter)
+## 😭 About Me 
 
 Hi, I am **Ruby** 👋
 
@@ -32,8 +32,7 @@ but I am **everything a little bit** 😭
 
 ---
 
-## 🧠 What I Do (Basically Everything)
-
+## 🧠 What I Do 
 ```mermaid
 flowchart LR
 A[Wake Up 😴] --> B[Think Big 🧠]
@@ -52,7 +51,7 @@ G --> B
 
 ---
 
-## 🛠️ Skills (Unlimited Pack 😎)
+## 🛠️ Skills
 
 | Category     | Skills                      |
 | ------------ | --------------------------- |
@@ -68,7 +67,7 @@ G --> B
 
 ---
 
-## 🚀 Projects (Serious Work Between Chaos 😤)
+## 🚀 Projects 
 
 * Titanic Prediction 🚢
 * Loan Approval 💰
@@ -80,8 +79,7 @@ G --> B
 
 ---
 
-## 📊 GitHub Stats (Real Proof I Work 😎)
-
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubypoddarr&show_icons=true&theme=tokyonight" />
 </p>
@@ -92,7 +90,7 @@ G --> B
 
 ---
 
-## 🥧 Pie Chart of My Life 😭
+
 
 ```mermaid
 pie
@@ -106,7 +104,7 @@ title Ruby's Life Distribution
 
 ---
 
-## 📈 Contribution Graph (No Sleep Mode Activated 😤)
+## 📈 Contribution Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubypoddarr&theme=tokyo-night" />
@@ -114,7 +112,7 @@ title Ruby's Life Distribution
 
 ---
 
-## 🧊 3D Contribution (Snake is eating my hardwork 😭)
+## 🧊 Snake is eating my hardwork 😭
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -137,7 +135,7 @@ G --> D
 
 ---
 
-## 🏆 Achievements (Self Respect Matters 😌)
+## 🏆 Self Respect Matters 😌
 
 * Survived Python errors 😭
 * Completed ML projects 😎
@@ -146,7 +144,7 @@ G --> D
 
 ---
 
-## 📬 Contact Me (Serious Mode ON 😌)
+## 📬 Contact Me 
 
 <table>
 <tr><td>👩 Name</td><td>Ruby Poddar</td></tr>
@@ -167,8 +165,7 @@ G --> D
 
 ---
 
-## ☕ Final Truth (Deep but Funny 😭)
-
+## ☕ Final Truth 
 Sometimes I feel:
 
 * I can do everything 😎
@@ -225,7 +222,7 @@ D --> E[Sleep 😴]
 
 ---
 
-# 🧪 My Mood Graph (Very Scientific 😎)
+# 🧪 My Mood Graph 
 
 ```mermaid
 graph TD
@@ -299,8 +296,7 @@ Me:
 
 ---
 
-# 👀 Visitor Counter (Feels like fame 😎)
-
+# 👀 Visitor Counter 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rubypoddarr&label=Profile+Views&color=blue&style=flat" />
 </p>
